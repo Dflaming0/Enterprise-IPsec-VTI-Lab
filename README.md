@@ -1,7 +1,7 @@
 # Enterprise-IPsec-VTI-Lab
 
 ## Overview
-This repository documents a comprehensive, multi-vendor network security laboratory built in EVE-NG. The goal isn't just to connect a few routers, but to simulate a realistic enterprise infrastructure with headquarters and remote branches, focusing on secure routing, IPsec VPNs, and firewall administration. 
+This repository documents a comprehensive, network security laboratory built in EVE-NG. The goal isn't just to connect a few routers, but to simulate a realistic enterprise infrastructure with headquarters and remote branche, focusing on secure routing, IPsec VPNs, and firewall administration. 
 
 ## Tools & Technologies
 
